@@ -1,2 +1,3 @@
 started learning git :)
 adding more to file
+making vs default ...
