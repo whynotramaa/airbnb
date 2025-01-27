@@ -4,3 +4,4 @@ making vs default ...
 
 .gitkeep -> add it and commit after that empty files and folders wont be tracked without throwing any stuff
 
+git diff
